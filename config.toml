@@ -2,3 +2,6 @@ baseURL = 'https://indradeva.github.io/'
 languageCode = 'en-us'
 title = 'Индра Дэви - Йога для вас'
 theme = 'book'
+
+[Params]
+logo = 'indradeva.ru'
