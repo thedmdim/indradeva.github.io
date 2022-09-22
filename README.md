@@ -1,2 +1,2 @@
-# indradeva.github.io
-Индра Дева - Йога для вас
+# indradevi.github.io
+Индра Деви - Йога для вас
