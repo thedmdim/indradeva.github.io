@@ -60,6 +60,10 @@ label::after {
     color: #EEEEEE;
 }
 
+.dark img.invert{
+    filter: invert(100%);
+}
+
 .dark a:link { color: lightskyblue; }
 .dark a:visited { color: #6d4b8d; }
 .dark a:hover { color: #ffffff; }
@@ -68,3 +72,4 @@ label::after {
 .night{
 	background-image: url(/pics/night.png);
 }
+
